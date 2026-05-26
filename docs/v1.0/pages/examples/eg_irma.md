@@ -13,7 +13,7 @@ The accuracy and completeness of iVar and IRMA assemblies were determined for 6 
 
 ## VAPER + iVar vs VAPER + IRMA
 
-![](../../media/VAPER-ivar-vs-IRMA.1.jpg)
+![](../../../media/VAPER-ivar-vs-IRMA.1.jpg)
 
 Assemblies were created from each synthetic control using VAPER with the `EPITOME_2025-02-14` reference set with the following conditions:
 * iVar: `--cons_assembler ivar --cons_assembly_type consensus`
@@ -23,7 +23,7 @@ Assemblies were created from each synthetic control using VAPER with the `EPITOM
 
 ## VAPER vs IRMA FLU
 
-![](../../media/VAPER-ivar-vs-IRMA.2.jpg)
+![](../../../media/VAPER-ivar-vs-IRMA.2.jpg)
 
 Assemblies were created from Twist Bioscience synthetic controls 4 and 17, using either VAPER and the `EPITOME_2025-02-14` references or using the standard IRMA FLU module:
 * VAPER + iVar: `--cons_assembler ivar --cons_assembly_type consensus`
