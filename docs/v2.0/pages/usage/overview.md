@@ -27,7 +27,11 @@ VAPER (<ins>V</ins>iral <ins>A</ins>ssembly from <ins>P</ins>robe-based <ins>E</
 🧬 Export reads associated with each assembly for downstream use<br>
 </div>
 
-While VAPER was originally designed for hybrid capture data, it has also been used with shotgun metagenomic and tile-amplicon data. It comes stock with a comprehensive reference set for <span id="taxon-count">[loading]</span> viral taxa, including **all species targeted by the [Illumina VSP v2.0 panel](https://www.illumina.com/content/dam/illumina/gcs/assembled-assets/marketing-literature/viral-surveillance-panel-v2-data-sheet-m-gl-02882/viral-surveillance-panel-v2-data-sheet-m-gl-02882.pdf)** (see the full list [here](../../ref_search/)). Keep on reading to learn more!
+VAPER was originally designed for hybrid capture data but should also work well with metagenomic data. It comes stock with a comprehensive reference set for <span id="taxon-count">[loading]</span> viral taxa, including **all species targeted by the [Illumina VSP v2.0 panel](https://www.illumina.com/content/dam/illumina/gcs/assembled-assets/marketing-literature/viral-surveillance-panel-v2-data-sheet-m-gl-02882/viral-surveillance-panel-v2-data-sheet-m-gl-02882.pdf)** (see the full list [here](../../ref_search/)).
+
+{: .important}
+**The hybrid capture protocol used to validate VAPER is now available on protocols.io:**
+<span style="display:block; margin-left:1.5em; margin-top:0.5em;">Qing Yang, Abigail Hicks, Darren Lucas, Jared Johnson, Pauline Trinh, Nicholas Hanson, Philip Dykema, Allison Black 2026. _Viral Genomic Sequencing using Illumina Viral Surveillance Kit_. protocols.io [https://dx.doi.org/10.17504/protocols.io.8epv5yy9nl1b/v1](https://dx.doi.org/10.17504/protocols.io.8epv5yy9nl1b/v1).</span>
 
 ## Contributors
 VAPER was originally created by the Washington State Department of Health (WA DOH) as part of the Pathogen Genomics Center of Excellence (PGCoE). Check out the links below to learn more:
