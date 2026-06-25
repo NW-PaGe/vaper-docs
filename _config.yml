@@ -27,3 +27,6 @@ callouts:
   example:
     title: Example
     color: yellow
+  changelog:
+    title: Change Log
+    color: pink

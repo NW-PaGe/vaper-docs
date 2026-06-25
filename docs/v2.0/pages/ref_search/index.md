@@ -22,8 +22,12 @@ permalink: /docs/v2.0/pages/ref_search/
 
 {: .note}
 All references were created at the genus level, except those belonging to Betacoronavirus (Embecovirus, Hibecovirus, Merbecovirus, Nobecovirus, and Sarbecovirus), using [EPITOME v2.1](https://doh-jdj0303.github.io/epitome-docs/). Taxonomic names were derived from [NCBI](https://www.ncbi.nlm.nih.gov/taxonomy). References with unusual lengths, as compared to the global average for that genus, are listed as `outliers`.
+
 - [Learn more about reference sets](../developers/reference_sets/index.html)
 - [Request a new reference set](https://github.com/DOH-JDJ0303/vaper/issues)
+
+{: .changelog }
+> - VAPER v2.1.0: Reference variants `3825`, `5653`, `6651`, `7194`, and `7734` were removed from the Lentivirus reference set due to significant overlap (>= 10% overlap at >= 90% identity) with human genome sequences (read more [here](https://github.com/NW-PaGe/vaper/releases/tag/v2.1.0))
 
 <!-- Styles and Dependencies -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
